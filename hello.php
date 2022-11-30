@@ -1,1 +1,3 @@
-dfsd
+<?php
+echo "Hallo!";
+?>
